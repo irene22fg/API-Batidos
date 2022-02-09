@@ -85,7 +85,3 @@ btn3.addEventListener('click', (event) => {
         .then(response => response.json())
         .then(console.log)
 });
-
-
-
-
